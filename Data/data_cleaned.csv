@@ -1,0 +1,25 @@
+id,Artist,Category,Style,Subject,medium,size,orientation,price
+p00158,fathi_hassan,Drawing,abstract,abstract_and_non-figurative,canvas panel,large,horizontal,high
+p00035,adam_henein,Drawing,fine_art,landscapes,sea and sky,canvas board,horizontal,medium
+p00005,hossam_dirar,Drawing,abstract,abstract_and_non-figurative,Watercolur,x-large,horizontal,low
+p00136,adam_henein,print,figurative,still_life,oil,small,horizontal,low
+p00003,tarek_el_komi,Photography,abstract,flowers_and_plants,Ceramic,medium,squared,medium
+p00072,tarek_el_komi,Photography,abstract,flowers_and_plants,Ceramic,large,horizontal,high
+p00083,alaa_awad,print,surrealism,plants,Acrylic,x-large,vertical,high
+p00016,ghada_amer,print,figurative,animals,Acrylic,large,vertical,medium
+p00112,adam_henein,Drawing,figurative,city,Acrylic,large,vertical,high
+p00016,hossam_dirar,Drawing,surrealism,sunset,oil acrylic,medium,vertical,high
+p00133,hamid_nada,Photography,surrealism,nature,mixed media,small,squared,low
+p00005,george_bahgoury,Drawing,abstract,abstract,oil,x-large,horizontal,high
+p00014,khaled_hafez,print,figurative,figurative,mixed media,small,vertical,low
+p00059,george_bahgoury,Drawing,abstract,fine_art,mixed media,small,vertical,high
+p00088,adam_henein,Drawing,surrealism,abstract,pastal,medium,squared,high
+p00096,abdel_hadi_al_gazzar,Drawing,abstract,human,Watercolur,x-large,horizontal,medium
+p00196,khaled_hafez,Drawing,surrealism,human_dance,pencil,x-large,squared,high
+p00168,adam_henein,Drawing,fine_art,human_face,Watercolur,large,squared,medium
+p00120,khaled_hafez,Drawing,figurative,figurative,oil acrylic,x-large,horizontal,medium
+p00116,george_bahgoury,drawing,surrealism,fine_art,oil acrylic,medium,squared,high
+p00170,abdel_hadi_al_gazzar,drawing,surrealism,human,Watercolur,large,horizontal,high
+p00173,hamid_nada,Photography,figurative,human_dance,mixed media,medium,vertical,low
+p00141,fathi_hassan,Drawing,abstract,animals,mixed media,x-large,horizontal,high
+p00142,fathi_hassan,print,abstract,space,Acrylic,small,horizontal,low
